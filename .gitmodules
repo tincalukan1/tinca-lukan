@@ -1,0 +1,3 @@
+[submodule "themes/sujt_theme"]
+	path = themes/sujt_theme
+	url = https://github.com/sujtfri/sujt_theme.git
